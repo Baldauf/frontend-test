@@ -1,6 +1,12 @@
+@import "./bootstrap/bootstrap";
 @import "vars";
 
+$padding: 10px;
+
+
+
 body {
+  position: relative;
   background: white;
 
   p {
