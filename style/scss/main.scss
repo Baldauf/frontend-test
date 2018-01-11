@@ -5,19 +5,6 @@
 
 
 
-$padding: 10px;
-
-
-
-body {
-  position: relative;
-  background: #F2F2F2;
-
-  p {
-    color: $shanesbrother;
-  }
-}
-
 
 
 body {
@@ -31,58 +18,50 @@ p {
 }
 
 #welcome {
-	background: #FFFAF0;
-	color: #38138E;
+	background: $creme;
+	color: $purple;
 	padding-bottom: 3em;
 	padding-top: 3em;
 	padding-left: 1.7em;
 }
 
 .welcometext {
-	font-family: "Roboto Mono", monospace;
-	color: #38138E;
+	color: $purple;
 	font-size: 1em;
 }
 
 #welcome h1 {
-  font-family: "freight-display-pro", serif;
   font-weight: 900;
   letter-spacing: 0.5px;
-  font-size: 5.3em;
-  color: #38138E;
+  color: $purple;
 }
 
 #welcome p {
-  font-family: "Roboto Mono", monospace;
   letter-spacing: 1px;
   font-size: 1em;
-  color: #38138E;
+  color: $purple;
 }
 
 #welcome {
 	background: #FFFAF0;
-	color: #38138E;
+	color: $purple;
 }
 
 #beliefs h2 {
-	font-family: "Roboto Mono", monospace;
-	font-size: 2.2em;
 	text-transform: uppercase;
-	color: #38138E;
+	color: $purple;
 	letter-spacing: 2px;
 }
 
 #beliefs {
 	background: #FFFAF0;
-	color: #38138E;
+	color: $purple;
 	text-align: center;
 	padding: 3em 1.5em;
 }
 
 #beliefs h3 {
-	font-family: "freight-display-pro", serif;
 	font-weight: 700;	
-	font-size: 1.8em;
 	letter-spacing: 0.5px;
 	line-height: 150%;
 }
