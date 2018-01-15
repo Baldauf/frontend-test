@@ -18,5 +18,9 @@
   },
   "author": "",
   "license": "MIT",
-  "bugs": {}
+  "bugs": {},
+  "dependencies": {
+    "bootstrap-select": "^1.12.4",
+    "include-media": "^1.4.9"
+  }
 }
